@@ -6,7 +6,7 @@
 
 **Issue:** Issue 3
 
-**Citation:** Scott, B. (2022, NOV 28th). *"The Museum of AI Applications"*: "The SMB Process". [The SMB Process - The Museum of AI Applications] (https://scottmiles57.wixsite.com/the-smb-process). 
+**Citation:** Bracey, S, M. (2022, NOV 28th). *"The Museum of AI Applications"*: "The SMB Process". [The SMB Process - The Museum of AI Applications] (https://scottmiles57.wixsite.com/the-smb-process). 
 
 **Tags:** AI, Ethics, Art, Twine, Museum, Copyright, Twine.
 
