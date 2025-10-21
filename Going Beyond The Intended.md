@@ -1,5 +1,5 @@
-# **Title: Going Beyond The Intended:
-- Utilization Defining Its Role in a Rural Life -**
+# **Title: Going Beyond The Intended:**
+#**- Utilization Defining Its Role in a Rural Life -**
 ### **Date:** Completed On - 12/12/2024. Edited On: 10/08/2025
 ### **Author:** Scott Bracey
 ### **Issue:** Issue 3
