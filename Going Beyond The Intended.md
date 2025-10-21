@@ -3,7 +3,7 @@
 ### **Author:** Scott Bracey
 ### **Issue:** Issue 3
 ### **Tags:** Barns, Perspective, Identity, Rural Lifestyle, History, Utility, Restoration
-### **Citation:** Scott Bracey, (2024, Dec 12), *Going Beyond The Intended*, Twine Story, GitHub, *"The SMB Process"*: https://scottmiles57.wixsite.com/the-smb-process/post/going-beyond-the-intended-the-utilization-defining-its-role-in-a-rural-life
+### **Citation:** Scott Bracey, (2024, Dec 12), *Going Beyond The Intended*, Twine Story, GitHub, *"The SMB Process"*:[https://scottmiles57.wixsite.com/the-smb-process/post/going-beyond-the-intended-the-utilization-defining-its-role-in-a-rural-life](https://scottmiles57.wixsite.com/the-smb-process)
 ### **Bio:** *Scott Bracey (He/Him) is a fourth-year Culture and Technology studies student with a minor in Philosophy at the University of Guelph. During my time at UoG, I have enjoyed honing my creative and leadership skills while shaping my critical thinking and ability to understand and then respond to complex situations.* 
 
 ## **Abstract:**
